@@ -9,8 +9,10 @@ sites:
     url: https://api.github.com
   - name: Wikipedia
     url: https://www.wikipedia.org
+  - name: Simulated
+    url: https://ruogit.github.io/
   - name: Simulated Checkout Service
-    url: https://ruogit.github.io/simulated-outage
+    url: https://ruogit.github.io
 status-website:
   baseUrl: /status
   name: Ruo's Status Page
