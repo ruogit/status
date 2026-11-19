@@ -1,3 +1,16 @@
+## About this project
+
+A personal learning project to practice production-support workflows:
+
+- **Detection:** GitHub Actions checks each endpoint every 5 minutes
+- **Incident tickets:** an outage automatically opens a GitHub Issue, assigned to me, and closes it on recovery
+- **Communication:** a public status page shows current status and history
+- **Trend analysis:** response time and uptime history help spot degradation before a full outage
+
+Public endpoints are included as a control group to distinguish a site issue from a monitoring-side issue.
+
+> Personal learning project. No employer data or systems are involved.
+> 
 # [📈 Live Status](https://ruogit.github.io/status): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [ruogit](https://ruogit.github.io/status), powered by [Upptime](https://github.com/upptime/upptime).
