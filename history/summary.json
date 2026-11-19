@@ -59,16 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ruogit.github.io.ico",
     "slug": "simulated",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "54.91%",
+    "uptimeDay": "54.91%",
+    "uptimeWeek": "54.91%",
+    "uptimeMonth": "54.91%",
+    "uptimeYear": "54.91%",
     "time": 12,
     "timeDay": 12,
     "timeWeek": 12,
     "timeMonth": 12,
     "timeYear": 12,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-19": 0
+    }
   }
 ]
