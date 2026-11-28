@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 126,
-    "timeWeek": 155,
-    "timeMonth": 145,
-    "timeYear": 145,
+    "time": 144,
+    "timeDay": 130,
+    "timeWeek": 152,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://api.github.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.github.com.ico",
     "slug": "git-hub-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 56,
-    "timeDay": 33,
-    "timeWeek": 50,
-    "timeMonth": 56,
-    "timeYear": 56,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 58,
+    "timeDay": 55,
+    "timeWeek": 56,
+    "timeMonth": 58,
+    "timeYear": 58,
     "dailyMinutesDown": {
-      "2026-11-28": 0
+      "2026-11-28": 21
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 21,
-    "timeWeek": 91,
-    "timeMonth": 104,
-    "timeYear": 104,
+    "time": 106,
+    "timeDay": 84,
+    "timeWeek": 99,
+    "timeMonth": 106,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   }
 ]
